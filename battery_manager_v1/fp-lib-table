@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Battery Holder (Horizontal)")(type "KiCad")(uri "${KIPRJMOD}/Components/battery_lib.pretty")(options "")(descr ""))
+)

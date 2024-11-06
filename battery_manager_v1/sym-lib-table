@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "9v Battery Holder (Horizontal)")(type "KiCad")(uri "${KIPRJMOD}/Components/1294.kicad_sym")(options "")(descr ""))
+)
